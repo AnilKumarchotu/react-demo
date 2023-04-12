@@ -1,0 +1,30 @@
+.gggg{
+    color:rgb(72, 164, 29)
+}
+
+
+.rst {
+    float: left;
+  }
+  
+.button {
+    float: right;
+  }
+  
+ 
+  .pad-top{
+padding-top: 10%;
+padding-bottom: 20%;
+
+  }
+  a.dropdown-item:hover {
+    background-color: darkgrey;
+}
+.aaaa{
+        
+  color:rgb(72, 164, 29)
+
+}
+.btn {
+  float: right;
+}
